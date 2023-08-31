@@ -1,4 +1,6 @@
-![image](https://github.com/nirmitjoshi/nirmitjoshi/assets/51502078/61682f22-7b93-447f-9c5b-532e35432787)
+<div style="width: 100%; text-align: center;">
+    <img src="https://github.com/nirmitjoshi/nirmitjoshi/assets/51502078/61682f22-7b93-447f-9c5b-532e35432787" style="width: 100%; max-width: 100%;" alt="quote">
+</div>
 
 
 ## **The Beginning**
