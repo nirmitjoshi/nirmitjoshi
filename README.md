@@ -4,7 +4,7 @@
 
 
 
-## **The Beginning 🚀**
+## **The Beginning 🎬**
 It all began with - a desire to seize control. And when I say control, I mean not just the keyboard but the wild and unpredictable dance of life itself. You see, I'm not your run-of-the-mill perfectionist; I'm the kind who wants to micromanage every pixel on life's grand screen. ( Why let fate pull the strings in your life's puppet show when you can be the puppet master with just a few lines of code? )
 
 ## **The Change 📈**
