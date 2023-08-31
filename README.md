@@ -1,6 +1,5 @@
-> I see someone crying alone on a bench, I think it’s funny. You see a little girls who’s lost her puppy, you’re sad.
+![image](https://github.com/nirmitjoshi/nirmitjoshi/assets/51502078/61682f22-7b93-447f-9c5b-532e35432787)
 
-_Nirmit Joshi (me)_
 
 ## **The Beginning**
 Let's rewind to where it all began - a burning desire to seize control. And when I say control, I mean not just the keyboard but the wild and unpredictable dance of life itself. You see, I'm not your run-of-the-mill perfectionist; I'm the kind who wants to micromanage every pixel on life's grand screen. Why let fate pull the strings in your life's puppet show when you can be the puppet master with just a few lines of code?
