@@ -1,5 +1,5 @@
 <div style="width: 100%; text-align: center; border-radius: 50%; overflow: hidden;">
-    <img src="quotey.svg" style="width: 100%; max-width: 100%;" alt="quote">
+    <img src="quote1.svg" style="width: 100%; max-width: 100%;" alt="quote">
 </div>
 
 
