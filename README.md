@@ -1,5 +1,5 @@
 >I see someone crying alone on a bench, I think it’s funny. You see a little girls who’s lost her puppy, you’re sad.
-- _Nirmit Joshi (me)_
+>_Nirmit Joshi (me)_
 
 
 ## **The Beginning**
