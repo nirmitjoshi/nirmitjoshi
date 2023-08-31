@@ -1,4 +1,4 @@
-<div style="width: 100%; text-align: center; border-radius: 50%; overflow: hidden;">
+<div style="width: 100%; text-align: center;">
     <img src="quote.svg" style="width: 100%; max-width: 100%;" alt="quote">
 </div>
 
